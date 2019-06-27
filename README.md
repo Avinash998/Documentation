@@ -20,7 +20,7 @@ follow this https://fossbytes.com/create-bootable-usb-media-from-iso-ubuntu/
 Always make windows bootable pendrive from windows power ISO tool
 
 Download Chrome for Ubuntu
-
+hi
 
 https://www.kmspico.info/kmspico-free-activate-windows-10-permanent/
 
