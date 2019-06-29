@@ -2,10 +2,9 @@
 This is intended as a quick reference and showcase about _Markdown_.
 This cheatsheet is specifically _Markdown_ Here's version of Github-flavored _Markdown_. This differs slightly in styling and syntax from what Github uses, so what you see below might vary a little from what you get in a _Markdown_ Here email, but it should be pretty close.
 
-You can play around with _Markdown_ on an amazing [online editor]([stackedit.io](https://stackedit.io/app#)). 
+You can play around with _Markdown_ on an amazing [online editor](https://stackedit.io/app#). 
 
 ## Table of Contents
-----------------------------------
 Headers
 Emphasis
 Lists
@@ -58,7 +57,7 @@ Alt-H2
 ### Emphasis
 -----------------------------------
 ```
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Emphasis, aka italics and bold with **asterisks** or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
@@ -66,7 +65,7 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 ```
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Emphasis, aka italics and bold with **asterisks** or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
@@ -169,7 +168,7 @@ Reference-style:
 
 ### Code and Syntax Highlighting
 ------------------------
-Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and Markdown Here -- support syntax highlighting. Markdown Here supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the highlight.js demo page.
+Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and Markdown Here -- support syntax highlighting. Markdown Here supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the [highlight.js demo page]([https://highlightjs.org/static/demo/](https://highlightjs.org/static/demo/)).
 ```
 Inline `code` has `back-ticks around` it.
 ```
