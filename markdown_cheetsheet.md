@@ -1,10 +1,10 @@
-## Markdown Cheet Sheet
+# Markdown Cheet Sheet
 This is intended as a quick reference and showcase about _Markdown_.
 This cheatsheet is specifically _Markdown_ Here's version of Github-flavored _Markdown_. This differs slightly in styling and syntax from what Github uses, so what you see below might vary a little from what you get in a _Markdown_ Here email, but it should be pretty close.
 
 You can play around with _Markdown_ on an amazing [online editor]([stackedit.io](https://stackedit.io/app#)). 
 
-### Table of Contents
+## Table of Contents
 ----------------------------------
 Headers
 Emphasis
@@ -20,7 +20,7 @@ Line Breaks
 YouTube Videos
 TeX Mathematical Formulae
 
-####  Headers
+###  Headers
 --------------------------------------
 ```
 # H1
@@ -55,7 +55,7 @@ Alt-H1
 Alt-H2
 ------
 
-#### Emphasis
+### Emphasis
 -----------------------------------
 ```
 Emphasis, aka italics, with *asterisks* or _underscores_.
@@ -75,7 +75,7 @@ Combined emphasis with **asterisks and _underscores_**.
 Strikethrough uses two tildes. ~~Scratch this.~~
 
 
-#### Lists
+### Lists
 -------------
 ```
 1. First ordered list item
@@ -104,7 +104,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 - Or minuses
 + Or pluses
 
-#### Links
+### Links
 ----------------
 There are two ways to create links.
 ```
@@ -144,7 +144,7 @@ Some text to show that the reference links can follow later.
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
 
-#### Images
+### Images
 -------------------
 ```
 Here's our logo (hover to see the title text):
@@ -167,7 +167,7 @@ Reference-style:
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-#### Code and Syntax Highlighting
+### Code and Syntax Highlighting
 ------------------------
 Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and Markdown Here -- support syntax highlighting. Markdown Here supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the highlight.js demo page.
 ```
@@ -216,7 +216,7 @@ No language indicated, so no syntax highlighting.
 But let's throw in a <b>tag</b>.
 ```
 
-#### Tables
+### Tables
 -------------------------------------
 Tables aren't part of the core Markdown spec, but they are part of GFM and Markdown Here supports them. They are an easy way of adding tables to your email -- a task that would otherwise require copy-pasting from another application.
 
@@ -251,7 +251,7 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-#### Blockquotes
+### Blockquotes
 --------------------
 ```
 > Blockquotes are very handy in email to emulate reply text.
@@ -268,7 +268,7 @@ Quote break.
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
 
-#### Inline HTML
+### Inline HTML
 -----------------------------------------
 You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 ```
@@ -288,7 +288,7 @@ You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-#### Horizontal Rule
+### Horizontal Rule
 -----------------------
 ```
 Three or more...
@@ -319,7 +319,7 @@ ___
 
 Underscores
 
-#### Line Breaks
+### Line Breaks
 ------------------------------
 My basic recommendation for learning how line breaks work is to experiment and discover -- hit <Enter> once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You'll soon learn to get what you want. "Markdown Toggle" is your friend.
 
@@ -341,7 +341,7 @@ This line is only separated by a single newline, so it's a separate line in the 
 
 (Technical note: Markdown Here uses GFM line breaks, so there's no need to use MD's two-space line breaks.)
 
-#### YouTube Videos
+### YouTube Videos
 -------------------------------
 They can't be added directly but you can add an image with a link to the video like this:
 ```
@@ -354,7 +354,7 @@ Or, in pure Markdown, but losing the image sizing and border:
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 ```
 
-#### TeX Mathematical Formulae
+### TeX Mathematical Formulae
 -------------------------------------
 A full description of TeX math symbols is beyond the scope of this cheatsheet. Here's a good reference, and you can try stuff out on CodeCogs. You can also play with formulae in the Markdown Here options page.
 Here are some examples to try out:
