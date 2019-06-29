@@ -5,19 +5,19 @@ This cheatsheet is specifically _Markdown_ Here's version of Github-flavored _Ma
 You can play around with _Markdown_ on an amazing [online editor](https://stackedit.io/app#). 
 
 ## Table of Contents
-Headers
-Emphasis
-Lists
-Links
-Images
-Code and Syntax Highlighting
-Tables
-Blockquotes
-Inline HTML
-Horizontal Rule
-Line Breaks
-YouTube Videos
-TeX Mathematical Formulae
+> Headers  
+> Emphasis
+> Lists  
+> Links  
+> Images  
+> Code and Syntax Highlighting  
+> Tables  
+> Blockquotes  
+> Inline HTML  
+> Horizontal Rule  
+> Line Breaks  
+> YouTube Videos  
+> TeX Mathematical Formulae  
 
 ###  Headers
 --------------------------------------
