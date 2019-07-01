@@ -4,3 +4,6 @@
 2. [Node](/node)
 3. [Git Cheet Sheet](/git_cheetsheet.md)
 4. [Markdown Cheet Sheet](/markdown_cheetsheet.md)
+5. [Inatall ubuntu alongside of windows](/ubuntu_windows.md)
+6. [Configure your system after new os installation.](/configure_system.md)
+7. [Coding Challange Platform](/coding_challanges.md)
