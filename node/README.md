@@ -44,6 +44,7 @@ npm/npx/yarn
 # REPL
 
 # Event Loop
+# Templating Engine
 
 # Buffer
 ## buffer.alloc()
@@ -64,3 +65,12 @@ npm/npx/yarn
 ## req.on()
 ## .parse()
 ## agent.createConnection()
+
+# Path
+## path.basename()
+## path.dirname()
+## path.format()
+## path.isAbsolute()
+## path.join()
+## paht.parse()
+
