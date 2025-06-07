@@ -180,3 +180,5 @@ Uploads all local branch commits to GitHub
 `$ git pull`
 
 Downloads bookmark history and incorporates changes
+
+For in-depth info refer [this](https://roadmap.sh/git-github){:target="_blank"} website.
