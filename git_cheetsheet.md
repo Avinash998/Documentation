@@ -181,4 +181,4 @@ Uploads all local branch commits to GitHub
 
 Downloads bookmark history and incorporates changes
 
-For in-depth info refer <a href="https://roadmap.sh/git-github" target="_blank">this</a> [this](https://roadmap.sh/git-github){:target="_blank"} website.
+For in-depth info refer <a href="https://roadmap.sh/git-github" target="_blank">this</a> website.
