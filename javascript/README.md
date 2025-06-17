@@ -6,3 +6,10 @@
 ## setImmediate()
 ## clearTimeout()
 ## clearInterval()
+
+# Array
+## forEach()
+## reduce()
+## map()
+## filter()
+## flat()
